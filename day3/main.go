@@ -191,31 +191,22 @@ func getExpandedInt(line string, i int) int {
 // and a boolean to indicate whether any matches were found.
 func (p partFinder) isVerticallyAdjacent(top bool) ([][]int, bool) {
 	adjLine := p.lines[2]
-	line := p.lines[0]
 	if top {
 		adjLine = p.lines[0]
 	}
 	if adjLine == "" {
 		return nil, false
 	}
-	start := p.index - 1
-	end := p.index + p.length + 1 // +1 to get the diagonal
-	if start < 0 {
-		start = 0
-	}
-	if end > len(adjLine) {
-		end = len(line)
-	}
-	checkSubStr := adjLine[start:end]
-	locs := p.matcher.FindAllStringIndex(checkSubStr, -1)
-	setAbsoluteIndices(locs, start)
-	return locs, len(locs) > 0
+	return getMatches(adjLine, p.index, p.length, p.matcher)
 }
 
 func (p partFinder) isAdjacent() ([][]int, bool) {
-	line := p.lines[1]
-	start := p.index - 1
-	end := p.index + p.length + 1 // +1 to get the next char
+	return getMatches(p.lines[1], p.index, p.length, p.matcher)
+}
+
+func getMatches(line string, index, length int, matcher *regexp.Regexp) ([][]int, bool) {
+	start := index - 1
+	end := index + length + 1 // +1 to get the diagonal
 	if start < 0 {
 		start = 0
 	}
@@ -223,7 +214,7 @@ func (p partFinder) isAdjacent() ([][]int, bool) {
 		end = len(line)
 	}
 	checkSubStr := line[start:end]
-	locs := p.matcher.FindAllStringIndex(checkSubStr, -1)
+	locs := matcher.FindAllStringIndex(checkSubStr, -1)
 	setAbsoluteIndices(locs, start)
 	return locs, len(locs) > 0
 }

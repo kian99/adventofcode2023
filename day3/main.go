@@ -36,6 +36,18 @@ func ChallengeTwo(filename string) int {
 
 type lines [3]string
 
+func (l lines) topRow() string {
+	return l[0]
+}
+
+func (l lines) middleRow() string {
+	return l[1]
+}
+
+func (l lines) bottomRow() string {
+	return l[2]
+}
+
 func newLines(topLine, midLine, bottomLine string) lines {
 	return lines{topLine, midLine, bottomLine}
 }
@@ -53,7 +65,7 @@ func sumParts(scanner *bufio.Scanner, f func(lines) int) int {
 	if !scanner.Scan() {
 		return 0
 	}
-	lines[2] = scanner.Text()
+	shiftRows(&lines, scanner.Text())
 	for scanner.Scan() {
 		line := scanner.Text()
 		shiftRows(&lines, line)
@@ -67,7 +79,7 @@ func sumParts(scanner *bufio.Scanner, f func(lines) int) int {
 
 func sumGearRatios(lines lines) int {
 	total := 0
-	for _, loc := range reGearMatch.FindAllStringIndex(lines[1], -1) {
+	for _, loc := range reGearMatch.FindAllStringIndex(lines.middleRow(), -1) {
 		index := loc[0]
 		if loc[0]+1 != loc[1] {
 			panic("invalid * string found")
@@ -82,10 +94,10 @@ func sumGearRatios(lines lines) int {
 
 func sumValidNumbersInRow(lines lines) int {
 	total := 0
-	for _, loc := range reNumberMatch.FindAllStringIndex(lines[1], -1) {
+	for _, loc := range reNumberMatch.FindAllStringIndex(lines.middleRow(), -1) {
 		index := loc[0]
 		length := loc[1] - loc[0]
-		match := lines[1][loc[0]:loc[1]]
+		match := lines.middleRow()[loc[0]:loc[1]]
 		if isSymbolAdjacent(lines, index, length) {
 			num, err := strconv.Atoi(match)
 			if err != nil {
@@ -185,14 +197,14 @@ func getExpandedInt(line string, i int) int {
 // isVerticallyAdjacent determines whether the substring string located at
 // p.Index-1 with length p.Length+1 has any matches against the regex
 // matcher specified in p.matcher. The param top determines whether the substring
-// searched comes from p.lines[0] (top) or p.lines[2] (bottom).
+// searched comes from the top or bottom row.
 // The returned params are a slice of positions of sucessive matches shifted to
 // represent their index in the original line rather than the substring
 // and a boolean to indicate whether any matches were found.
 func (p partFinder) isVerticallyAdjacent(top bool) ([][]int, bool) {
-	adjLine := p.lines[2]
+	adjLine := p.lines.bottomRow()
 	if top {
-		adjLine = p.lines[0]
+		adjLine = p.lines.topRow()
 	}
 	if adjLine == "" {
 		return nil, false
@@ -201,7 +213,7 @@ func (p partFinder) isVerticallyAdjacent(top bool) ([][]int, bool) {
 }
 
 func (p partFinder) isAdjacent() ([][]int, bool) {
-	return getMatches(p.lines[1], p.index, p.length, p.matcher)
+	return getMatches(p.lines.middleRow(), p.index, p.length, p.matcher)
 }
 
 func getMatches(line string, index, length int, matcher *regexp.Regexp) ([][]int, bool) {

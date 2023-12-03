@@ -1,0 +1,4702 @@
+Welcome to day 3
+check substr ...*.
+Match below
+Match 411
+
+check substr ....*
+Match below
+Match 363
+
+check substr ...=.
+Match below
+Match 134
+
+check substr ....*
+Match below
+Match 463
+
+check substr *....
+Match below
+Match 775
+
+check substr ./...
+Match below
+Match 506
+
+total = 2652
+check substr ....*
+Match below
+Match 429
+
+check substr ..&..
+Match below
+Match 836
+
+check substr .*...
+Match below
+Match 960
+
+check substr ..*..
+Match below
+Match 381
+
+check substr .../
+Match below
+Match 67
+
+check substr ..*..
+Match below
+Match 426
+
+check substr *....
+Match below
+Match 304
+
+total = 6055
+check substr .$...
+Match above
+Match 641
+
+check substr .../.
+Match above
+Match 924
+
+check substr ..*..
+Match above
+Match 855
+
+check substr ....*
+Match below
+Match 492
+
+check substr ....+
+Match above
+Match 495
+
+check substr ...*.
+Match below
+Match 476
+
+check substr .*...
+Match above
+Match 927
+
+check substr ....#
+Match below
+Match 680
+
+check substr ..=..
+Match above
+Match 713
+
+total = 12258
+check substr .*...
+Match above
+Match 900
+
+check substr ..*..
+Match above
+Match 239
+
+check substr ....*
+Match below
+Match 325
+
+check substr .953%
+Match adjacent
+Match 953
+
+check substr ..*..
+Match above
+Match 771
+
+check substr .&...
+Match above
+Match 808
+
+check substr *....
+Match above
+Match 329
+
+check substr ..*..
+Match above
+Match 214
+
+check substr .846%
+Match adjacent
+Match 846
+
+total = 17643
+No Match 707
+
+check substr .*...
+Match below
+Match 233
+
+check substr *....
+Match above
+Match 774
+
+check substr ..$..
+Match below
+Match 445
+
+check substr *....
+Match above
+Match 107
+
+check substr @927.
+Match adjacent
+Match 927
+
+check substr ..=..
+Match below
+Match 775
+
+total = 20904
+check substr ....*
+Match below
+Match 721
+
+check substr +...
+Match below
+Match 17
+
+check substr .*...
+Match above
+Match 790
+
+check substr .*...
+Match above
+Match 670
+
+check substr ..*..
+Match below
+Match 893
+
+check substr .*..
+Match below
+Match 93
+
+check substr .129$
+Match adjacent
+Match 129
+
+check substr ...*.
+Match below
+Match 651
+
+No Match 696
+
+check substr .131*
+Match adjacent
+Match 131
+
+check substr *99.
+Match adjacent
+Match 99
+
+check substr .446*
+Match adjacent
+Match 446
+
+check substr *781.
+Match adjacent
+Match 781
+
+total = 26325
+check substr *717.
+Match adjacent
+Match 717
+
+check substr ....*
+Match above
+Match 868
+
+No Match 252
+
+check substr ../..
+Match above
+Match 461
+
+check substr ...*.
+Match below
+Match 350
+
+total = 28721
+check substr *....
+Match below
+Match 911
+
+No Match 454
+
+No Match 161
+
+check substr ..*..
+Match below
+Match 875
+
+check substr ..*..
+Match below
+Match 209
+
+check substr .*...
+Match above
+Match 695
+
+check substr ...*.
+Match above
+Match 926
+
+check substr ....*
+Match below
+Match 983
+
+check substr ....*
+Match below
+Match 758
+
+check substr *....
+Match below
+Match 592
+
+check substr ....@
+Match below
+Match 562
+
+total = 35232
+check substr .569#
+Match adjacent
+Match 569
+
+check substr ....*
+Match above
+Match 496
+
+check substr ..#..
+Match below
+Match 888
+
+check substr ....*
+Match below
+Match 227
+
+check substr *...
+Match below
+Match 67
+
+check substr ..%..
+Match below
+Match 877
+
+check substr .*...
+Match above
+Match 716
+
+check substr ...$.
+Match above
+Match 975
+
+total = 40047
+check substr .*...
+Match above
+Match 730
+
+check substr ..*..
+Match below
+Match 112
+
+check substr ....*
+Match above
+Match 509
+
+check substr ..*..
+Match above
+Match 858
+
+No Match 710
+
+check substr @567.
+Match adjacent
+Match 567
+
+check substr ..&..
+Match below
+Match 610
+
+check substr ...*.
+Match above
+Match 821
+
+check substr .#...
+Match above
+Match 918
+
+total = 45172
+check substr ....+
+Match below
+Match 794
+
+check substr .701@
+Match adjacent
+Match 701
+
+check substr .456-
+Match adjacent
+Match 456
+
+check substr .$...
+Match above
+Match 505
+
+check substr ..*..
+Match above
+Match 884
+
+check substr ..*..
+Match above
+Match 298
+
+check substr .742=
+Match adjacent
+Match 742
+
+check substr .+..
+Match below
+Match 95
+
+total = 49647
+check substr ..*..
+Match above
+Match 891
+
+check substr .*...
+Match below
+Match 165
+
+No Match 175
+
+check substr .../.
+Match below
+Match 693
+
+No Match 127
+
+total = 51396
+No Match 554
+
+check substr ..*..
+Match below
+Match 855
+
+check substr *....
+Match below
+Match 505
+
+check substr .../.
+Match below
+Match 262
+
+check substr ...=.
+Match above
+Match 110
+
+check substr ..&..
+Match below
+Match 764
+
+check substr .953@
+Match adjacent
+Match 953
+
+check substr ..$..
+Match above
+Match 343
+
+check substr .*...
+Match below
+Match 817
+
+total = 56005
+check substr ...*.
+Match above
+Match 449
+
+No Match 464
+
+check substr .*...
+Match below
+Match 148
+
+check substr .*.
+Match below
+Match 1
+
+check substr ...*.
+Match above
+Match 853
+
+No Match 232
+
+check substr .356*
+Match adjacent
+Match 356
+
+check substr .+...
+Match above
+Match 217
+
+check substr .$...
+Match below
+Match 992
+
+check substr ....*
+Match below
+Match 935
+
+check substr *....
+Match below
+Match 527
+
+total = 60483
+check substr ....*
+Match above
+Match 931
+
+No Match 44
+
+check substr .553*
+Match adjacent
+Match 553
+
+check substr .+...
+Match below
+Match 945
+
+check substr ....*
+Match above
+Match 655
+
+total = 63567
+check substr ...*.
+Match above
+Match 735
+
+check substr ..*..
+Match below
+Match 718
+
+check substr ...+
+Match below
+Match 16
+
+check substr ....*
+Match below
+Match 650
+
+check substr .%...
+Match below
+Match 944
+
+check substr ....&
+Match above
+Match 525
+
+check substr *....
+Match above
+Match 491
+
+check substr ..*..
+Match below
+Match 662
+
+check substr .*..
+Match below
+Match 27
+
+No Match 397
+
+total = 68335
+No Match 273
+
+No Match 563
+
+check substr *418.
+Match adjacent
+Match 418
+
+check substr #265.
+Match adjacent
+Match 265
+
+check substr ...*
+Match above
+Match 43
+
+check substr *...
+Match above
+Match 92
+
+check substr .791*
+Match adjacent
+Match 791
+
+check substr *211.
+Match adjacent
+Match 211
+
+check substr .507@
+Match adjacent
+Match 507
+
+check substr ...*
+Match below
+Match 84
+
+check substr ....*
+Match below
+Match 543
+
+total = 71289
+check substr .*...
+Match above
+Match 562
+
+check substr ....-
+Match above
+Match 627
+
+check substr .+...
+Match above
+Match 492
+
+check substr *86.
+Match adjacent
+Match 86
+
+check substr ....*
+Match above
+Match 456
+
+check substr ..&..
+Match above
+Match 837
+
+check substr *181.
+Match adjacent
+Match 181
+
+total = 74530
+check substr ....*
+Match below
+Match 829
+
+check substr *....
+Match below
+Match 233
+
+check substr =....
+Match above
+Match 454
+
+check substr .*...
+Match below
+Match 351
+
+check substr ....*
+Match above
+Match 232
+
+check substr ..#.
+Match below
+Match 47
+
+check substr ...*
+Match above
+Match 44
+
+check substr *....
+Match above
+Match 401
+
+No Match 8
+
+check substr .*...
+Match below
+Match 876
+
+check substr .965*
+Match adjacent
+Match 965
+
+check substr *151.
+Match adjacent
+Match 151
+
+check substr ...*.
+Match above
+Match 284
+
+total = 79397
+check substr ..*..
+Match below
+Match 647
+
+check substr +788.
+Match adjacent
+Match 788
+
+total = 80832
+No Match 49
+
+check substr ..+..
+Match below
+Match 588
+
+check substr ....*
+Match below
+Match 174
+
+check substr ....*
+Match below
+Match 111
+
+check substr .*...
+Match above
+Match 604
+
+check substr $....
+Match above
+Match 358
+
+No Match 863
+
+check substr ...*
+Match below
+Match 61
+
+check substr *....
+Match below
+Match 663
+
+check substr *....
+Match above
+Match 549
+
+check substr ...*.
+Match above
+Match 442
+
+check substr .271&
+Match adjacent
+Match 271
+
+check substr -....
+Match above
+Match 493
+
+total = 85146
+check substr ....*
+Match below
+Match 446
+
+check substr ...*.
+Match above
+Match 638
+
+check substr ..*..
+Match below
+Match 881
+
+check substr *....
+Match below
+Match 720
+
+check substr .168%
+Match adjacent
+Match 168
+
+total = 87999
+check substr ...*.
+Match below
+Match 504
+
+check substr .*..
+Match below
+Match 43
+
+check substr .*...
+Match above
+Match 245
+
+check substr ....*
+Match above
+Match 975
+
+check substr ...*
+Match below
+Match 91
+
+check substr .*..
+Match above
+Match 28
+
+No Match 966
+
+check substr ....#
+Match above
+Match 600
+
+check substr .*..
+Match above
+Match 18
+
+check substr .*...
+Match above
+Match 245
+
+check substr *....
+Match below
+Match 480
+
+total = 91228
+check substr ..*.
+Match above
+Match 57
+
+check substr @412.
+Match adjacent
+Match 412
+
+No Match 812
+
+check substr *....
+Match above
+Match 729
+
+check substr ...*
+Match below
+Match 61
+
+check substr .268*
+Match adjacent
+Match 268
+
+check substr ...*.
+Match above
+Match 706
+
+total = 93461
+check substr .*...
+Match above
+Match 307
+
+check substr .+...
+Match above
+Match 107
+
+check substr *....
+Match above
+Match 937
+
+check substr ..*..
+Match below
+Match 108
+
+No Match 453
+
+check substr ...*
+Match above
+Match 50
+
+check substr ..%..
+Match below
+Match 778
+
+check substr *440.
+Match adjacent
+Match 440
+
+No Match 4
+
+check substr .&...
+Match below
+Match 361
+
+check substr #....
+Match above
+Match 888
+
+check substr =256.
+Match adjacent
+Match 256
+
+total = 97693
+check substr .889*
+Match adjacent
+Match 889
+
+check substr 889*
+Match adjacent
+Match 89
+
+check substr ....@
+Match below
+Match 675
+
+check substr ...&
+Match above
+Match 29
+
+check substr *....
+Match below
+Match 427
+
+check substr .*...
+Match below
+Match 508
+
+No Match 641
+
+check substr *...
+Match below
+Match 455
+
+total = 100765
+check substr ..*..
+Match below
+Match 897
+
+No Match 960
+
+check substr ..*..
+Match above
+Match 403
+
+check substr *....
+Match above
+Match 971
+
+check substr ..#..
+Match below
+Match 806
+
+check substr ../..
+Match below
+Match 363
+
+check substr .*.
+Match below
+Match 9
+
+check substr &....
+Match above
+Match 464
+
+No Match 586
+
+check substr .282*
+Match adjacent
+Match 282
+
+total = 104960
+check substr ..*..
+Match below
+Match 316
+
+No Match 9
+
+check substr ....*
+Match below
+Match 317
+
+check substr *....
+Match above
+Match 614
+
+check substr .*...
+Match below
+Match 362
+
+check substr ..@..
+Match below
+Match 905
+
+check substr ..*.
+Match above
+Match 27
+
+check substr =....
+Match below
+Match 670
+
+total = 108171
+check substr ..*..
+Match above
+Match 606
+
+check substr $....
+Match below
+Match 292
+
+check substr ....*
+Match below
+Match 164
+
+check substr *....
+Match below
+Match 470
+
+check substr ..$..
+Match above
+Match 902
+
+check substr ..*..
+Match below
+Match 549
+
+total = 111154
+check substr ..*..
+Match below
+Match 473
+
+check substr .*...
+Match above
+Match 603
+
+No Match 733
+
+check substr .482*
+Match adjacent
+Match 482
+
+check substr *423.
+Match adjacent
+Match 423
+
+check substr +....
+Match above
+Match 276
+
+check substr .%...
+Match below
+Match 419
+
+check substr /166.
+Match adjacent
+Match 166
+
+check substr .-...
+Match above
+Match 297
+
+check substr ...*.
+Match above
+Match 401
+
+check substr .*...
+Match above
+Match 313
+
+check substr .306/
+Match adjacent
+Match 306
+
+check substr ....%
+Match above
+Match 353
+
+total = 115666
+check substr .*...
+Match below
+Match 291
+
+check substr ..*..
+Match below
+Match 997
+
+check substr ....*
+Match below
+Match 385
+
+check substr .617%
+Match adjacent
+Match 617
+
+No Match 470
+
+check substr ...*.
+Match above
+Match 618
+
+total = 118574
+check substr *....
+Match above
+Match 577
+
+check substr *903.
+Match adjacent
+Match 903
+
+check substr -343.
+Match adjacent
+Match 343
+
+check substr *....
+Match below
+Match 790
+
+check substr ..*..
+Match below
+Match 143
+
+No Match 30
+
+check substr /759.
+Match adjacent
+Match 759
+
+total = 122089
+check substr ...%.
+Match above
+Match 387
+
+check substr ..*..
+Match above
+Match 210
+
+No Match 417
+
+check substr .*...
+Match above
+Match 482
+
+check substr ..*.
+Match above
+Match 86
+
+check substr .*...
+Match below
+Match 760
+
+check substr $....
+Match above
+Match 626
+
+check substr ...@.
+Match below
+Match 503
+
+check substr +990.
+Match adjacent
+Match 990
+
+check substr .@...
+Match above
+Match 299
+
+No Match 137
+
+total = 126432
+check substr *14.
+Match adjacent
+Match 14
+
+check substr ....*
+Match below
+Match 896
+
+check substr *....
+Match below
+Match 922
+
+check substr *....
+Match above
+Match 937
+
+check substr ..$..
+Match above
+Match 188
+
+check substr ..*..
+Match below
+Match 553
+
+check substr *...
+Match above
+Match 63
+
+check substr *150.
+Match adjacent
+Match 150
+
+check substr .#...
+Match below
+Match 208
+
+check substr ..-..
+Match above
+Match 338
+
+total = 130701
+check substr ...=.
+Match above
+Match 774
+
+check substr ....*
+Match above
+Match 987
+
+No Match 737
+
+check substr .*...
+Match above
+Match 959
+
+check substr .*...
+Match above
+Match 665
+
+check substr ..*..
+Match below
+Match 329
+
+No Match 966
+
+total = 134415
+check substr ...#.
+Match above
+Match 221
+
+check substr .*.
+Match above
+Match 8
+
+check substr *....
+Match above
+Match 629
+
+No Match 521
+
+No Match 94
+
+check substr *....
+Match above
+Match 706
+
+No Match 356
+
+check substr ...*.
+Match below
+Match 636
+
+check substr ...+.
+Match above
+Match 253
+
+check substr .../.
+Match above
+Match 655
+
+check substr ...#.
+Match above
+Match 505
+
+check substr -....
+Match below
+Match 613
+
+total = 138641
+check substr ..=..
+Match below
+Match 649
+
+check substr ...+.
+Match above
+Match 270
+
+No Match 468
+
+check substr ....=
+Match above
+Match 420
+
+check substr ..*..
+Match above
+Match 848
+
+check substr @....
+Match below
+Match 846
+
+total = 141674
+check substr *...
+Match below
+Match 43
+
+check substr *....
+Match below
+Match 718
+
+check substr ..*..
+Match below
+Match 678
+
+check substr *906.
+Match adjacent
+Match 906
+
+check substr ...*.
+Match below
+Match 593
+
+check substr -26.
+Match adjacent
+Match 26
+
+No Match 268
+
+check substr *....
+Match above
+Match 810
+
+check substr *....
+Match below
+Match 401
+
+check substr ..*..
+Match below
+Match 842
+
+total = 146691
+check substr 826*
+Match adjacent
+Match 826
+
+check substr .430+
+Match adjacent
+Match 430
+
+check substr ....*
+Match below
+Match 572
+
+check substr ....*
+Match above
+Match 436
+
+check substr *....
+Match below
+Match 954
+
+check substr ..*..
+Match below
+Match 732
+
+check substr ...+.
+Match above
+Match 391
+
+check substr ...*.
+Match below
+Match 999
+
+check substr ...$.
+Match above
+Match 348
+
+No Match 662
+
+check substr .&...
+Match above
+Match 771
+
+total = 153150
+check substr ...*
+Match above
+Match 61
+
+check substr ...*.
+Match above
+Match 535
+
+check substr *....
+Match below
+Match 977
+
+check substr *...
+Match above
+Match 34
+
+check substr .=...
+Match below
+Match 672
+
+check substr .*...
+Match above
+Match 693
+
+check substr .*...
+Match above
+Match 860
+
+check substr *790.
+Match adjacent
+Match 790
+
+check substr ...@.
+Match below
+Match 611
+
+total = 158383
+check substr *....
+Match below
+Match 930
+
+check substr ...*.
+Match above
+Match 596
+
+check substr .*...
+Match above
+Match 590
+
+check substr ..*..
+Match above
+Match 903
+
+check substr .*...
+Match below
+Match 985
+
+check substr ....=
+Match above
+Match 639
+
+check substr ....*
+Match above
+Match 984
+
+total = 164010
+check substr ....&
+Match above
+Match 691
+
+check substr .*...
+Match below
+Match 379
+
+No Match 226
+
+check substr *....
+Match above
+Match 971
+
+check substr .549*
+Match adjacent
+Match 549
+
+check substr ....*
+Match above
+Match 438
+
+check substr *....
+Match above
+Match 466
+
+No Match 307
+
+check substr .&..
+Match below
+Match 75
+
+check substr ...*.
+Match below
+Match 151
+
+check substr *....
+Match below
+Match 594
+
+check substr ...*.
+Match below
+Match 631
+
+total = 168955
+check substr *....
+Match above
+Match 761
+
+check substr *....
+Match above
+Match 236
+
+check substr *....
+Match below
+Match 534
+
+check substr ..%..
+Match below
+Match 611
+
+check substr /....
+Match above
+Match 835
+
+total = 171932
+check substr ..*..
+Match below
+Match 275
+
+No Match 58
+
+check substr ....*
+Match above
+Match 970
+
+check substr .660-
+Match adjacent
+Match 660
+
+check substr .*...
+Match below
+Match 605
+
+check substr *....
+Match below
+Match 689
+
+check substr ...*.
+Match below
+Match 191
+
+No Match 32
+
+check substr .287$
+Match adjacent
+Match 287
+
+check substr ..%..
+Match above
+Match 160
+
+check substr *625.
+Match adjacent
+Match 625
+
+check substr ...*.
+Match above
+Match 413
+
+check substr *133.
+Match adjacent
+Match 133
+
+check substr .*...
+Match above
+Match 885
+
+total = 177825
+check substr ..+..
+Match above
+Match 873
+
+total = 178698
+check substr *....
+Match above
+Match 388
+
+check substr ....*
+Match below
+Match 518
+
+check substr .313*
+Match adjacent
+Match 313
+
+check substr *820.
+Match adjacent
+Match 820
+
+check substr .666/
+Match adjacent
+Match 666
+
+check substr ...*.
+Match above
+Match 321
+
+check substr ./...
+Match below
+Match 520
+
+check substr ..*..
+Match below
+Match 392
+
+check substr *...
+Match above
+Match 12
+
+check substr .*...
+Match above
+Match 455
+
+check substr .165=
+Match adjacent
+Match 165
+
+check substr .../.
+Match above
+Match 345
+
+check substr @....
+Match below
+Match 557
+
+check substr ....*
+Match below
+Match 293
+
+total = 184463
+check substr ...+.
+Match above
+Match 267
+
+check substr #....
+Match above
+Match 841
+
+check substr ...*
+Match below
+Match 49
+
+check substr *762.
+Match adjacent
+Match 762
+
+check substr ....*
+Match below
+Match 863
+
+check substr ..+..
+Match above
+Match 123
+
+total = 187368
+check substr .*..
+Match above
+Match 41
+
+check substr ..*..
+Match below
+Match 301
+
+check substr .247*
+Match adjacent
+Match 247
+
+check substr *37.
+Match adjacent
+Match 37
+
+check substr ....*
+Match above
+Match 836
+
+check substr .631*
+Match adjacent
+Match 631
+
+check substr *32.
+Match adjacent
+Match 32
+
+check substr .241&
+Match adjacent
+Match 241
+
+check substr *....
+Match below
+Match 999
+
+check substr .476&
+Match adjacent
+Match 476
+
+check substr .+...
+Match below
+Match 896
+
+total = 192105
+check substr ..-..
+Match below
+Match 794
+
+check substr .-...
+Match below
+Match 950
+
+check substr +....
+Match above
+Match 436
+
+check substr ...*.
+Match above
+Match 240
+
+check substr ...*.
+Match above
+Match 108
+
+total = 194633
+check substr .../.
+Match above
+Match 917
+
+check substr ...*
+Match above
+Match 72
+
+No Match 333
+
+check substr .8*
+Match adjacent
+Match 8
+
+check substr ..*
+Match above
+Match 2
+
+No Match 35
+
+check substr ..*..
+Match below
+Match 809
+
+check substr .=...
+Match below
+Match 416
+
+check substr ...*.
+Match above
+Match 654
+
+check substr ..*..
+Match below
+Match 750
+
+check substr .*...
+Match below
+Match 166
+
+check substr ...$.
+Match above
+Match 419
+
+check substr *....
+Match below
+Match 884
+
+total = 199730
+check substr ....$
+Match above
+Match 442
+
+check substr ..+..
+Match above
+Match 537
+
+check substr ....&
+Match above
+Match 865
+
+check substr .927*
+Match adjacent
+Match 927
+
+check substr *114.
+Match adjacent
+Match 114
+
+check substr ....*
+Match below
+Match 725
+
+check substr ...=.
+Match above
+Match 228
+
+No Match 385
+
+check substr .214*
+Match adjacent
+Match 214
+
+total = 203782
+check substr .*...
+Match below
+Match 701
+
+check substr .+...
+Match below
+Match 501
+
+check substr ...@.
+Match below
+Match 204
+
+check substr .$...
+Match above
+Match 320
+
+check substr *....
+Match above
+Match 820
+
+check substr .*...
+Match above
+Match 514
+
+check substr ....*
+Match below
+Match 520
+
+total = 207362
+check substr ...@.
+Match above
+Match 121
+
+check substr .*...
+Match below
+Match 725
+
+check substr ../..
+Match above
+Match 305
+
+check substr ...+.
+Match above
+Match 698
+
+check substr ....*
+Match above
+Match 287
+
+check substr ..*..
+Match below
+Match 877
+
+check substr .*.
+Match below
+Match 7
+
+total = 210382
+check substr .*...
+Match below
+Match 920
+
+check substr ..*..
+Match below
+Match 790
+
+check substr ....$
+Match above
+Match 468
+
+check substr .@...
+Match above
+Match 584
+
+check substr -546.
+Match adjacent
+Match 546
+
+check substr ...*.
+Match above
+Match 870
+
+No Match 954
+
+check substr ...$.
+Match above
+Match 811
+
+check substr .%...
+Match above
+Match 407
+
+total = 215778
+check substr =....
+Match above
+Match 405
+
+check substr *....
+Match above
+Match 724
+
+No Match 143
+
+check substr *....
+Match above
+Match 256
+
+No Match 668
+
+total = 217163
+check substr ...*.
+Match above
+Match 877
+
+check substr *....
+Match above
+Match 381
+
+check substr .*.
+Match below
+Match 4
+
+check substr =495.
+Match adjacent
+Match 495
+
+check substr *....
+Match below
+Match 617
+
+check substr *....
+Match below
+Match 519
+
+total = 220056
+check substr ....@
+Match below
+Match 855
+
+check substr =...
+Match above
+Match 59
+
+check substr $63.
+Match adjacent
+Match 63
+
+check substr /...
+Match above
+Match 73
+
+check substr ../..
+Match below
+Match 773
+
+check substr .$...
+Match below
+Match 595
+
+check substr .353*
+Match adjacent
+Match 353
+
+check substr *....
+Match below
+Match 937
+
+check substr ....*
+Match below
+Match 226
+
+total = 223990
+check substr ..*..
+Match below
+Match 456
+
+check substr .$...
+Match below
+Match 966
+
+check substr *....
+Match below
+Match 990
+
+check substr ..*..
+Match below
+Match 282
+
+check substr *...
+Match above
+Match 19
+
+No Match 749
+
+check substr .=...
+Match above
+Match 273
+
+check substr ...*.
+Match above
+Match 860
+
+check substr ....&
+Match below
+Match 233
+
+No Match 464
+
+total = 228069
+No Match 206
+
+No Match 131
+
+check substr ....*
+Match below
+Match 110
+
+check substr *....
+Match below
+Match 861
+
+check substr ...=.
+Match above
+Match 159
+
+check substr ...+.
+Match above
+Match 624
+
+check substr ...*.
+Match above
+Match 566
+
+total = 230389
+check substr ....*
+Match above
+Match 181
+
+check substr *....
+Match below
+Match 349
+
+check substr *....
+Match above
+Match 198
+
+check substr *....
+Match above
+Match 484
+
+check substr .*...
+Match above
+Match 989
+
+check substr ....*
+Match above
+Match 181
+
+check substr .*...
+Match below
+Match 457
+
+total = 233228
+check substr .942@
+Match adjacent
+Match 942
+
+check substr .*...
+Match below
+Match 345
+
+check substr *....
+Match below
+Match 142
+
+No Match 86
+
+check substr ...*.
+Match below
+Match 282
+
+check substr .*..
+Match below
+Match 73
+
+total = 235012
+check substr ....*
+Match above
+Match 319
+
+check substr .804*
+Match adjacent
+Match 804
+
+check substr *656.
+Match adjacent
+Match 656
+
+check substr ...+.
+Match above
+Match 330
+
+check substr *....
+Match below
+Match 261
+
+check substr ....*
+Match below
+Match 236
+
+check substr ....*
+Match above
+Match 263
+
+check substr *....
+Match below
+Match 158
+
+check substr *....
+Match below
+Match 551
+
+No Match 314
+
+total = 238590
+check substr -....
+Match below
+Match 343
+
+check substr ..*..
+Match above
+Match 957
+
+check substr .175=
+Match adjacent
+Match 175
+
+check substr ...*.
+Match below
+Match 492
+
+check substr .245*
+Match adjacent
+Match 245
+
+check substr *306.
+Match adjacent
+Match 306
+
+check substr .+...
+Match below
+Match 745
+
+check substr ..*.
+Match above
+Match 90
+
+check substr .165*
+Match adjacent
+Match 165
+
+check substr .*...
+Match above
+Match 910
+
+check substr ...*.
+Match above
+Match 818
+
+check substr ..@..
+Match below
+Match 201
+
+total = 244037
+check substr *....
+Match above
+Match 186
+
+check substr ..*..
+Match above
+Match 188
+
+check substr #....
+Match below
+Match 306
+
+check substr *96.
+Match adjacent
+Match 96
+
+check substr .*...
+Match below
+Match 837
+
+check substr ..*..
+Match below
+Match 945
+
+check substr ..*..
+Match above
+Match 129
+
+total = 246724
+check substr %....
+Match above
+Match 742
+
+check substr .*...
+Match below
+Match 619
+
+check substr *....
+Match above
+Match 889
+
+check substr .&...
+Match below
+Match 465
+
+check substr .542%
+Match adjacent
+Match 542
+
+check substr .*..
+Match below
+Match 44
+
+check substr /418.
+Match adjacent
+Match 418
+
+total = 250443
+check substr .753-
+Match adjacent
+Match 753
+
+check substr ..+..
+Match above
+Match 973
+
+check substr $575.
+Match adjacent
+Match 575
+
+check substr ....*
+Match below
+Match 883
+
+check substr ...*.
+Match below
+Match 242
+
+check substr ..*.
+Match above
+Match 63
+
+check substr *...
+Match above
+Match 72
+
+check substr *732.
+Match adjacent
+Match 732
+
+check substr ..$..
+Match below
+Match 702
+
+total = 255438
+No Match 640
+
+check substr ..*..
+Match above
+Match 724
+
+check substr .63*
+Match adjacent
+Match 63
+
+check substr *844.
+Match adjacent
+Match 844
+
+check substr ../..
+Match above
+Match 234
+
+check substr ....*
+Match above
+Match 690
+
+check substr *...
+Match above
+Match 48
+
+check substr ...*.
+Match above
+Match 612
+
+check substr *....
+Match below
+Match 483
+
+total = 259136
+check substr ...*.
+Match below
+Match 225
+
+check substr ...=.
+Match below
+Match 452
+
+check substr *...
+Match below
+Match 89
+
+No Match 435
+
+check substr ...*.
+Match above
+Match 754
+
+check substr .*...
+Match above
+Match 886
+
+check substr +....
+Match above
+Match 514
+
+check substr ....*
+Match above
+Match 209
+
+check substr *....
+Match above
+Match 282
+
+total = 262547
+check substr ...@.
+Match above
+Match 346
+
+check substr .357*
+Match adjacent
+Match 357
+
+check substr *88.
+Match adjacent
+Match 88
+
+check substr ..*..
+Match above
+Match 473
+
+check substr $....
+Match below
+Match 712
+
+total = 264523
+check substr ...*
+Match above
+Match 84
+
+No Match 616
+
+check substr .605&
+Match adjacent
+Match 605
+
+check substr *....
+Match above
+Match 380
+
+check substr ...&.
+Match below
+Match 773
+
+check substr ....*
+Match below
+Match 865
+
+check substr *....
+Match below
+Match 254
+
+check substr .*...
+Match below
+Match 433
+
+No Match 1
+
+check substr *...
+Match below
+Match 33
+
+check substr ...*.
+Match below
+Match 283
+
+check substr +...
+Match above
+Match 538
+
+total = 268771
+check substr &....
+Match above
+Match 416
+
+check substr %....
+Match above
+Match 408
+
+No Match 744
+
+check substr ...*.
+Match above
+Match 595
+
+check substr -....
+Match above
+Match 586
+
+check substr .*...
+Match below
+Match 428
+
+check substr ..*..
+Match below
+Match 523
+
+check substr ....&
+Match below
+Match 901
+
+total = 272628
+check substr .820@
+Match adjacent
+Match 820
+
+check substr .59*
+Match adjacent
+Match 59
+
+check substr %625.
+Match adjacent
+Match 625
+
+check substr ....*
+Match above
+Match 560
+
+check substr ....@
+Match below
+Match 705
+
+check substr ...*.
+Match above
+Match 713
+
+check substr ..../
+Match below
+Match 745
+
+total = 276855
+check substr *....
+Match above
+Match 849
+
+check substr ..*..
+Match below
+Match 574
+
+check substr #526.
+Match adjacent
+Match 526
+
+check substr *....
+Match above
+Match 304
+
+check substr ..*..
+Match above
+Match 241
+
+check substr ..*..
+Match above
+Match 241
+
+check substr *....
+Match below
+Match 975
+
+check substr .=...
+Match below
+Match 635
+
+total = 281200
+check substr ....%
+Match above
+Match 754
+
+check substr ..$..
+Match above
+Match 269
+
+check substr .327$
+Match adjacent
+Match 327
+
+check substr .906/
+Match adjacent
+Match 906
+
+check substr ....*
+Match above
+Match 133
+
+check substr ...*
+Match above
+Match 33
+
+check substr ..*..
+Match above
+Match 400
+
+check substr ..*..
+Match below
+Match 540
+
+check substr ...*.
+Match below
+Match 299
+
+check substr .451*
+Match adjacent
+Match 451
+
+total = 285312
+check substr ...*.
+Match below
+Match 409
+
+check substr ....*
+Match below
+Match 589
+
+check substr ..+..
+Match below
+Match 533
+
+check substr .*...
+Match above
+Match 564
+
+check substr .-...
+Match above
+Match 211
+
+check substr .#...
+Match below
+Match 592
+
+total = 288210
+check substr .*...
+Match below
+Match 915
+
+check substr ....%
+Match below
+Match 321
+
+check substr ....*
+Match above
+Match 938
+
+check substr ....%
+Match above
+Match 809
+
+check substr ....*
+Match above
+Match 756
+
+check substr *....
+Match below
+Match 396
+
+No Match 980
+
+check substr ..*..
+Match below
+Match 403
+
+check substr ..*..
+Match below
+Match 813
+
+check substr .725*
+Match adjacent
+Match 725
+
+check substr *200
+Match adjacent
+Match 200
+
+total = 294486
+check substr .916=
+Match adjacent
+Match 916
+
+check substr %223.
+Match adjacent
+Match 223
+
+check substr .*...
+Match above
+Match 354
+
+check substr ...*.
+Match below
+Match 227
+
+check substr ....*
+Match above
+Match 488
+
+check substr ....*
+Match below
+Match 907
+
+check substr *....
+Match below
+Match 659
+
+check substr .*...
+Match below
+Match 192
+
+check substr $866.
+Match adjacent
+Match 866
+
+check substr ....*
+Match below
+Match 874
+
+check substr #....
+Match below
+Match 737
+
+total = 300929
+check substr *....
+Match above
+Match 966
+
+check substr .$...
+Match below
+Match 257
+
+check substr ....@
+Match above
+Match 515
+
+check substr *....
+Match below
+Match 645
+
+check substr ....*
+Match below
+Match 169
+
+check substr *792.
+Match adjacent
+Match 792
+
+check substr .*...
+Match above
+Match 369
+
+check substr *....
+Match below
+Match 909
+
+check substr .*..
+Match above
+Match 36
+
+check substr ..*..
+Match above
+Match 172
+
+check substr %119.
+Match adjacent
+Match 119
+
+total = 305878
+No Match 779
+
+check substr *....
+Match above
+Match 669
+
+No Match 318
+
+check substr .309+
+Match adjacent
+Match 309
+
+check substr ....*
+Match above
+Match 546
+
+check substr ....*
+Match above
+Match 817
+
+check substr ....*
+Match above
+Match 755
+
+check substr .634*
+Match adjacent
+Match 634
+
+total = 309608
+No Match 441
+
+check substr *40.
+Match adjacent
+Match 40
+
+check substr ..&
+Match below
+Match 6
+
+check substr ..../
+Match above
+Match 514
+
+check substr *....
+Match below
+Match 323
+
+check substr ...*.
+Match above
+Match 464
+
+check substr ..*..
+Match above
+Match 501
+
+check substr .$..
+Match below
+Match 84
+
+check substr *379.
+Match adjacent
+Match 379
+
+No Match 339
+
+total = 311919
+No Match 641
+
+check substr %....
+Match above
+Match 735
+
+check substr ....*
+Match above
+Match 355
+
+No Match 14
+
+check substr ...*
+Match below
+Match 53
+
+check substr ....*
+Match above
+Match 386
+
+check substr *....
+Match above
+Match 577
+
+check substr ..+..
+Match above
+Match 697
+
+check substr $....
+Match above
+Match 520
+
+total = 315242
+check substr .929+
+Match adjacent
+Match 929
+
+check substr ...*.
+Match above
+Match 288
+
+check substr ....*
+Match above
+Match 408
+
+check substr ....*
+Match below
+Match 417
+
+check substr *....
+Match below
+Match 192
+
+check substr .899$
+Match adjacent
+Match 899
+
+total = 318375
+check substr ..*..
+Match below
+Match 871
+
+check substr *....
+Match below
+Match 736
+
+check substr .749*
+Match adjacent
+Match 749
+
+check substr ...*
+Match above
+Match 24
+
+check substr $67.
+Match adjacent
+Match 67
+
+No Match 616
+
+check substr ...*.
+Match below
+Match 765
+
+check substr @783.
+Match adjacent
+Match 783
+
+total = 322370
+check substr *...
+Match below
+Match 24
+
+check substr *....
+Match above
+Match 147
+
+check substr .258*
+Match adjacent
+Match 258
+
+check substr *605.
+Match adjacent
+Match 605
+
+check substr .65*
+Match adjacent
+Match 65
+
+check substr *807.
+Match adjacent
+Match 807
+
+check substr ....*
+Match below
+Match 253
+
+check substr .*...
+Match below
+Match 450
+
+check substr *....
+Match above
+Match 912
+
+check substr ..@..
+Match below
+Match 454
+
+check substr ..=..
+Match below
+Match 895
+
+total = 327240
+check substr ....*
+Match above
+Match 612
+
+check substr .@...
+Match below
+Match 957
+
+check substr ...*.
+Match above
+Match 245
+
+check substr ....$
+Match above
+Match 790
+
+check substr .91*
+Match adjacent
+Match 91
+
+check substr ..*..
+Match below
+Match 554
+
+check substr .*..
+Match above
+Match 60
+
+check substr .#..
+Match above
+Match 15
+
+total = 330564
+check substr *....
+Match above
+Match 229
+
+check substr .*...
+Match below
+Match 481
+
+check substr .542*
+Match adjacent
+Match 542
+
+check substr *650.
+Match adjacent
+Match 650
+
+check substr ....@
+Match above
+Match 779
+
+check substr ....*
+Match above
+Match 520
+
+check substr ....@
+Match above
+Match 139
+
+total = 333904
+check substr *304.
+Match adjacent
+Match 304
+
+check substr .#...
+Match below
+Match 815
+
+check substr -...
+Match below
+Match 16
+
+check substr ..*..
+Match above
+Match 772
+
+check substr *506.
+Match adjacent
+Match 506
+
+total = 336317
+check substr ....*
+Match above
+Match 975
+
+No Match 794
+
+check substr .773*
+Match adjacent
+Match 773
+
+check substr ....*
+Match above
+Match 292
+
+check substr .708*
+Match adjacent
+Match 708
+
+No Match 475
+
+check substr *100.
+Match adjacent
+Match 100
+
+check substr ....@
+Match above
+Match 600
+
+check substr ....*
+Match above
+Match 862
+
+check substr .%...
+Match above
+Match 439
+
+total = 341066
+check substr ....+
+Match above
+Match 500
+
+check substr *....
+Match above
+Match 884
+
+check substr *....
+Match above
+Match 477
+
+check substr *894.
+Match adjacent
+Match 894
+
+check substr ....*
+Match above
+Match 368
+
+check substr .*...
+Match below
+Match 480
+
+check substr .552*
+Match adjacent
+Match 552
+
+total = 345221
+check substr ...*.
+Match below
+Match 912
+
+check substr ...#.
+Match above
+Match 227
+
+check substr ....*
+Match below
+Match 199
+
+check substr ...+.
+Match above
+Match 822
+
+check substr ....*
+Match above
+Match 478
+
+check substr ..-..
+Match above
+Match 742
+
+check substr *....
+Match above
+Match 572
+
+check substr ....*
+Match below
+Match 625
+
+total = 349798
+No Match 117
+
+check substr *146.
+Match adjacent
+Match 146
+
+check substr .@...
+Match below
+Match 529
+
+check substr ..=..
+Match above
+Match 718
+
+check substr ....*
+Match below
+Match 121
+
+check substr /....
+Match above
+Match 974
+
+check substr ..%..
+Match below
+Match 201
+
+check substr .*..
+Match above
+Match 47
+
+check substr .*...
+Match below
+Match 500
+
+total = 353034
+No Match 296
+
+check substr ...*
+Match above
+Match 97
+
+check substr ...*.
+Match above
+Match 345
+
+check substr ....*
+Match above
+Match 976
+
+check substr .+...
+Match above
+Match 851
+
+check substr ...*.
+Match above
+Match 196
+
+No Match 383
+
+total = 355499
+No Match 182
+
+No Match 39
+
+check substr #600.
+Match adjacent
+Match 600
+
+check substr .*...
+Match above
+Match 973
+
+check substr *606.
+Match adjacent
+Match 606
+
+check substr ..*..
+Match below
+Match 950
+
+check substr -....
+Match above
+Match 448
+
+No Match 9
+
+check substr ..+..
+Match below
+Match 215
+
+check substr *....
+Match above
+Match 849
+
+check substr .$...
+Match above
+Match 303
+
+total = 360443
+check substr ....*
+Match below
+Match 824
+
+check substr .864*
+Match adjacent
+Match 864
+
+check substr *973.
+Match adjacent
+Match 973
+
+check substr *973.
+Match adjacent
+Match 973
+
+check substr ...*.
+Match below
+Match 581
+
+check substr ..@..
+Match below
+Match 772
+
+check substr .&...
+Match above
+Match 167
+
+check substr ....*
+Match below
+Match 598
+
+total = 366195
+check substr .829+
+Match adjacent
+Match 829
+
+check substr .%...
+Match above
+Match 953
+
+No Match 764
+
+check substr ....=
+Match below
+Match 424
+
+check substr .*...
+Match above
+Match 200
+
+check substr ....*
+Match below
+Match 788
+
+No Match 169
+
+check substr ..*..
+Match below
+Match 280
+
+check substr ....-
+Match below
+Match 373
+
+check substr *....
+Match below
+Match 711
+
+total = 370753
+check substr ....*
+Match above
+Match 147
+
+check substr .*...
+Match below
+Match 348
+
+check substr *....
+Match below
+Match 744
+
+check substr .$...
+Match below
+Match 730
+
+check substr .355*
+Match adjacent
+Match 355
+
+check substr ..*..
+Match above
+Match 183
+
+check substr ...=.
+Match below
+Match 808
+
+check substr ....*
+Match above
+Match 147
+
+total = 374215
+check substr ....*
+Match below
+Match 836
+
+check substr ....#
+Match above
+Match 807
+
+check substr %....
+Match below
+Match 815
+
+check substr *....
+Match above
+Match 235
+
+check substr .172/
+Match adjacent
+Match 172
+
+check substr -....
+Match below
+Match 640
+
+check substr ...*
+Match above
+Match 93
+
+check substr &....
+Match above
+Match 900
+
+check substr *....
+Match above
+Match 291
+
+check substr *....
+Match above
+Match 249
+
+total = 379253
+check substr ....*
+Match above
+Match 452
+
+check substr *....
+Match above
+Match 213
+
+check substr .*...
+Match below
+Match 698
+
+check substr ..*..
+Match above
+Match 569
+
+No Match 320
+
+total = 381185
+check substr .*...
+Match below
+Match 522
+
+check substr *....
+Match above
+Match 406
+
+check substr ...*.
+Match below
+Match 959
+
+check substr ..*..
+Match below
+Match 383
+
+check substr &....
+Match below
+Match 533
+
+No Match 706
+
+check substr .47&
+Match adjacent
+Match 47
+
+No Match 33
+
+check substr .-...
+Match below
+Match 960
+
+check substr .-...
+Match below
+Match 960
+
+No Match 241
+
+check substr .../.
+Match above
+Match 620
+
+check substr -764.
+Match adjacent
+Match 764
+
+check substr .906#
+Match adjacent
+Match 906
+
+total = 388245
+check substr .*...
+Match above
+Match 932
+
+No Match 594
+
+check substr ...-.
+Match below
+Match 711
+
+check substr +794.
+Match adjacent
+Match 794
+
+check substr ..&..
+Match above
+Match 487
+
+check substr +....
+Match below
+Match 285
+
+total = 391454
+check substr ....*
+Match below
+Match 139
+
+check substr ...*.
+Match above
+Match 737
+
+check substr *541.
+Match adjacent
+Match 541
+
+check substr .*...
+Match below
+Match 658
+
+check substr ..+..
+Match below
+Match 248
+
+check substr ...*
+Match above
+Match 79
+
+check substr ...*.
+Match above
+Match 589
+
+No Match 460
+
+check substr .*...
+Match below
+Match 145
+
+check substr ....*
+Match below
+Match 696
+
+check substr ....*
+Match below
+Match 645
+
+check substr =640.
+Match adjacent
+Match 640
+
+total = 396571
+check substr ...*
+Match above
+Match 24
+
+check substr .971*
+Match adjacent
+Match 971
+
+check substr .@...
+Match below
+Match 397
+
+check substr &86.
+Match adjacent
+Match 86
+
+check substr ..-.
+Match above
+Match 95
+
+total = 398144
+check substr ...*
+Match above
+Match 55
+
+check substr .*..
+Match below
+Match 75
+
+check substr ....*
+Match above
+Match 258
+
+check substr ..*
+Match below
+Match 4
+
+check substr *....
+Match above
+Match 183
+
+check substr ..*..
+Match below
+Match 349
+
+check substr .169=
+Match adjacent
+Match 169
+
+check substr .*...
+Match above
+Match 207
+
+check substr ..%..
+Match below
+Match 187
+
+check substr ....+
+Match below
+Match 929
+
+check substr .*...
+Match above
+Match 601
+
+check substr ..-..
+Match below
+Match 746
+
+check substr ....*
+Match above
+Match 269
+
+total = 402176
+check substr %577.
+Match adjacent
+Match 577
+
+check substr *543.
+Match adjacent
+Match 543
+
+check substr +....
+Match above
+Match 149
+
+No Match 71
+
+check substr .../.
+Match below
+Match 337
+
+check substr ..&.
+Match above
+Match 40
+
+check substr ...*.
+Match below
+Match 434
+
+check substr ..$..
+Match above
+Match 277
+
+No Match 43
+
+check substr .*...
+Match below
+Match 638
+
+total = 405171
+check substr .230%
+Match adjacent
+Match 230
+
+check substr *....
+Match above
+Match 609
+
+check substr ....*
+Match above
+Match 580
+
+check substr ..*..
+Match below
+Match 640
+
+total = 407230
+check substr ....#
+Match below
+Match 269
+
+check substr .=...
+Match below
+Match 999
+
+check substr ....*
+Match below
+Match 618
+
+No Match 636
+
+check substr ....*
+Match below
+Match 311
+
+check substr *....
+Match below
+Match 109
+
+check substr ...*.
+Match below
+Match 314
+
+check substr ..+..
+Match above
+Match 586
+
+check substr ..*..
+Match above
+Match 162
+
+check substr .+...
+Match above
+Match 747
+
+No Match 56
+
+check substr %....
+Match below
+Match 967
+
+check substr *....
+Match above
+Match 291
+
+total = 412603
+check substr .*...
+Match below
+Match 217
+
+check substr *....
+Match above
+Match 596
+
+No Match 629
+
+check substr .901$
+Match adjacent
+Match 901
+
+total = 414317
+check substr ../..
+Match above
+Match 103
+
+check substr ....*
+Match below
+Match 157
+
+check substr .*...
+Match above
+Match 427
+
+check substr ....*
+Match above
+Match 101
+
+check substr ..*..
+Match above
+Match 686
+
+check substr ...*.
+Match below
+Match 134
+
+check substr ..*..
+Match above
+Match 909
+
+check substr ..%..
+Match above
+Match 550
+
+check substr ....*
+Match below
+Match 911
+
+No Match 579
+
+check substr &....
+Match below
+Match 167
+
+total = 418462
+No Match 181
+
+check substr ...*.
+Match above
+Match 822
+
+check substr .*...
+Match below
+Match 623
+
+check substr ..@.
+Match above
+Match 39
+
+check substr .*...
+Match below
+Match 644
+
+check substr ..../
+Match above
+Match 841
+
+check substr ....*
+Match above
+Match 562
+
+check substr *...
+Match above
+Match 45
+
+total = 422038
+check substr +469.
+Match adjacent
+Match 469
+
+check substr ...-
+Match above
+Match 89
+
+check substr ....*
+Match above
+Match 190
+
+check substr *....
+Match below
+Match 653
+
+check substr ....*
+Match below
+Match 939
+
+check substr ...-
+Match above
+Match 89
+
+check substr *....
+Match above
+Match 898
+
+check substr ....*
+Match above
+Match 660
+
+check substr *....
+Match below
+Match 272
+
+check substr ...$.
+Match below
+Match 614
+
+total = 426911
+check substr ..*..
+Match above
+Match 563
+
+check substr *....
+Match below
+Match 215
+
+check substr .612*
+Match adjacent
+Match 612
+
+check substr *882.
+Match adjacent
+Match 882
+
+check substr ...*.
+Match above
+Match 740
+
+check substr @....
+Match above
+Match 173
+
+check substr ...%.
+Match above
+Match 834
+
+No Match 182
+
+total = 430930
+check substr ....%
+Match below
+Match 437
+
+check substr .&...
+Match above
+Match 856
+
+check substr *....
+Match below
+Match 626
+
+No Match 159
+
+check substr ...*.
+Match above
+Match 266
+
+check substr ..$..
+Match below
+Match 299
+
+check substr .830$
+Match adjacent
+Match 830
+
+check substr .&...
+Match above
+Match 268
+
+check substr .467-
+Match adjacent
+Match 467
+
+check substr ...*.
+Match above
+Match 738
+
+total = 435717
+check substr .*...
+Match above
+Match 891
+
+No Match 291
+
+check substr ....*
+Match below
+Match 649
+
+check substr ..*..
+Match below
+Match 387
+
+No Match 938
+
+check substr .850*
+Match adjacent
+Match 850
+
+total = 438494
+No Match 922
+
+check substr ....*
+Match above
+Match 610
+
+No Match 676
+
+check substr @....
+Match above
+Match 494
+
+check substr .161%
+Match adjacent
+Match 161
+
+check substr *154.
+Match adjacent
+Match 154
+
+check substr ....@
+Match below
+Match 741
+
+check substr .../.
+Match below
+Match 326
+
+check substr *...
+Match above
+Match 88
+
+total = 441068
+No Match 702
+
+check substr ...*.
+Match above
+Match 223
+
+check substr %....
+Match above
+Match 224
+
+check substr /....
+Match below
+Match 133
+
+check substr *....
+Match above
+Match 648
+
+check substr /....
+Match below
+Match 890
+
+check substr ....*
+Match above
+Match 540
+
+check substr .745*
+Match adjacent
+Match 745
+
+check substr ./...
+Match below
+Match 573
+
+total = 445044
+check substr &842.
+Match adjacent
+Match 842
+
+check substr +....
+Match below
+Match 849
+
+check substr ..*..
+Match below
+Match 513
+
+check substr +....
+Match above
+Match 210
+
+check substr ...$.
+Match above
+Match 288
+
+check substr ..*.
+Match below
+Match 35
+
+check substr ....*
+Match below
+Match 758
+
+total = 448539
+check substr ....$
+Match above
+Match 135
+
+No Match 607
+
+No Match 790
+
+check substr .552/
+Match adjacent
+Match 552
+
+check substr ..*..
+Match below
+Match 374
+
+check substr *496.
+Match adjacent
+Match 496
+
+No Match 253
+
+total = 450096
+check substr .804/
+Match adjacent
+Match 804
+
+check substr ...*.
+Match above
+Match 369
+
+check substr ..*..
+Match below
+Match 419
+
+check substr ...*
+Match above
+Match 22
+
+No Match 576
+
+check substr *....
+Match above
+Match 335
+
+check substr ....*
+Match below
+Match 723
+
+check substr *....
+Match below
+Match 686
+
+check substr .#...
+Match above
+Match 347
+
+check substr -327.
+Match adjacent
+Match 327
+
+check substr ....*
+Match above
+Match 180
+
+total = 454308
+check substr ....*
+Match above
+Match 685
+
+check substr *....
+Match above
+Match 829
+
+check substr .790@
+Match adjacent
+Match 790
+
+check substr .*...
+Match below
+Match 437
+
+No Match 392
+
+check substr *....
+Match above
+Match 352
+
+check substr -....
+Match below
+Match 599
+
+total = 458000
+check substr #....
+Match below
+Match 944
+
+check substr ...*.
+Match above
+Match 667
+
+check substr .*...
+Match below
+Match 321
+
+check substr .764@
+Match adjacent
+Match 764
+
+check substr ..*..
+Match below
+Match 746
+
+check substr ..@..
+Match below
+Match 665
+
+check substr *....
+Match below
+Match 890
+
+check substr ..*..
+Match below
+Match 104
+
+check substr ..*..
+Match below
+Match 746
+
+check substr ..*..
+Match below
+Match 668
+
+total = 464515
+No Match 96
+
+check substr ....*
+Match above
+Match 662
+
+No Match 961
+
+check substr .+...
+Match above
+Match 877
+
+check substr .942+
+Match adjacent
+Match 942
+
+check substr *....
+Match below
+Match 290
+
+check substr *....
+Match below
+Match 655
+
+check substr .../.
+Match above
+Match 303
+
+check substr ....*
+Match below
+Match 467
+
+No Match 57
+
+total = 468711
+check substr +....
+Match above
+Match 927
+
+check substr .=...
+Match above
+Match 857
+
+No Match 791
+
+check substr .*...
+Match above
+Match 545
+
+check substr @...
+Match below
+Match 67
+
+check substr ..*..
+Match above
+Match 152
+
+check substr *....
+Match above
+Match 345
+
+check substr ..*..
+Match above
+Match 541
+
+check substr *....
+Match above
+Match 846
+
+total = 472991
+check substr ....+
+Match above
+Match 325
+
+check substr *....
+Match below
+Match 966
+
+check substr *....
+Match below
+Match 480
+
+check substr ....*
+Match below
+Match 462
+
+check substr ....*
+Match below
+Match 468
+
+check substr -....
+Match below
+Match 352
+
+check substr *...
+Match below
+Match 96
+
+check substr ...*.
+Match above
+Match 371
+
+check substr .*...
+Match above
+Match 593
+
+No Match 220
+
+total = 477104
+check substr ..+..
+Match below
+Match 970
+
+check substr ....*
+Match below
+Match 943
+
+check substr *875.
+Match adjacent
+Match 875
+
+No Match 362
+
+check substr .550*
+Match adjacent
+Match 550
+
+check substr *25.
+Match adjacent
+Match 25
+
+check substr %191.
+Match adjacent
+Match 191
+
+check substr *....
+Match below
+Match 462
+
+total = 481120
+check substr ....=
+Match above
+Match 984
+
+check substr ..*..
+Match above
+Match 618
+
+check substr ..*.
+Match below
+Match 39
+
+check substr ..*..
+Match above
+Match 493
+
+check substr ....*
+Match below
+Match 289
+
+check substr ...*
+Match below
+Match 21
+
+check substr .+...
+Match above
+Match 379
+
+check substr ....*
+Match above
+Match 600
+
+check substr %...
+Match above
+Match 16
+
+check substr ..*..
+Match above
+Match 642
+
+check substr ..*..
+Match above
+Match 162
+
+check substr ..+..
+Match below
+Match 256
+
+No Match 403
+
+total = 485619
+check substr ....&
+Match above
+Match 168
+
+check substr *....
+Match above
+Match 326
+
+check substr ..=..
+Match below
+Match 413
+
+check substr +293.
+Match adjacent
+Match 293
+
+check substr .769*
+Match adjacent
+Match 769
+
+check substr *620.
+Match adjacent
+Match 620
+
+check substr ..*..
+Match above
+Match 674
+
+total = 488882
+No Match 647
+
+No Match 949
+
+check substr ...*.
+Match above
+Match 502
+
+check substr .*...
+Match above
+Match 748
+
+check substr #....
+Match below
+Match 692
+
+check substr .*...
+Match above
+Match 208
+
+No Match 271
+
+check substr ..*..
+Match above
+Match 903
+
+check substr .*...
+Match above
+Match 132
+
+check substr .506$
+Match adjacent
+Match 506
+
+check substr .*...
+Match below
+Match 832
+
+total = 493405
+check substr ....*
+Match below
+Match 983
+
+check substr .+...
+Match below
+Match 503
+
+check substr *350.
+Match adjacent
+Match 350
+
+No Match 239
+
+check substr *....
+Match below
+Match 581
+
+No Match 372
+
+total = 495822
+No Match 45
+
+check substr &....
+Match above
+Match 693
+
+check substr .+...
+Match above
+Match 192
+
+No Match 7
+
+check substr .*...
+Match below
+Match 774
+
+check substr ....*
+Match above
+Match 338
+
+check substr @81.
+Match adjacent
+Match 81
+
+check substr .337*
+Match adjacent
+Match 337
+
+check substr *....
+Match below
+Match 249
+
+check substr .*...
+Match above
+Match 105
+
+total = 498591
+check substr ...*.
+Match above
+Match 598
+
+check substr ...*.
+Match below
+Match 905
+
+check substr /....
+Match above
+Match 899
+
+check substr *31.
+Match adjacent
+Match 31
+
+check substr .751#
+Match adjacent
+Match 751
+
+total = 501775
+check substr &...
+Match below
+Match 56
+
+check substr #....
+Match above
+Match 110
+
+check substr ....*
+Match above
+Match 594
+
+check substr ...-.
+Match above
+Match 517
+
+check substr ....*
+Match below
+Match 300
+
+check substr *....
+Match below
+Match 679
+
+check substr ....*
+Match above
+Match 150
+
+check substr ..*.
+Match below
+Match 64
+
+check substr ....+
+Match above
+Match 919
+
+check substr ...*.
+Match below
+Match 287
+
+check substr &..
+Match below
+Match 5
+
+No Match 801
+
+total = 505456
+check substr ../..
+Match above
+Match 783
+
+check substr ....$
+Match below
+Match 498
+
+check substr ..*..
+Match below
+Match 321
+
+check substr .*...
+Match below
+Match 297
+
+check substr ..-..
+Match below
+Match 514
+
+check substr ./.
+Match above
+Match 8
+
+check substr +18.
+Match adjacent
+Match 18
+
+total = 507895
+check substr .$...
+Match below
+Match 961
+
+check substr .534*
+Match adjacent
+Match 534
+
+check substr *791.
+Match adjacent
+Match 791
+
+check substr *....
+Match above
+Match 526
+
+check substr /....
+Match above
+Match 499
+
+check substr ..*..
+Match above
+Match 648
+
+check substr &....
+Match above
+Match 349
+
+total = 512203
+check substr ...%.
+Match below
+Match 767
+
+check substr .*..
+Match above
+Match 48
+
+check substr ..*.
+Match above
+Match 40
+
+check substr ....*
+Match below
+Match 524
+
+check substr *...
+Match below
+Match 28
+
+check substr ....*
+Match above
+Match 369
+
+check substr *....
+Match above
+Match 417
+
+check substr ....#
+Match below
+Match 432
+
+check substr ..=..
+Match above
+Match 421
+
+check substr ..&..
+Match above
+Match 748
+
+check substr ..*.
+Match above
+Match 40
+
+total = 516037
+check substr ../..
+Match below
+Match 820
+
+check substr ..../
+Match below
+Match 707
+
+check substr ....*
+Match below
+Match 378
+
+check substr ....$
+Match below
+Match 801
+
+check substr .=..
+Match below
+Match 52
+
+check substr .102%
+Match adjacent
+Match 102
+
+total = 518897
+check substr *....
+Match below
+Match 822
+
+check substr ..+..
+Match above
+Match 364
+
+check substr .551/
+Match adjacent
+Match 551
+
+check substr .118&
+Match adjacent
+Match 118
+
+No Match 922
+
+No Match 785
+
+check substr *610.
+Match adjacent
+Match 610
+
+check substr %268.
+Match adjacent
+Match 268
+
+check substr .*...
+Match above
+Match 529
+
+total = 522159
+check substr ....&
+Match below
+Match 820
+
+No Match 753
+
+No Match 499
+
+check substr ..*..
+Match below
+Match 435
+
+total = 523414
+No Match 232
+
+check substr .*...
+Match above
+Match 676
+
+check substr *....
+Match below
+Match 738
+
+check substr *....
+Match below
+Match 839
+
+check substr ../..
+Match above
+Match 876
+
+check substr .+..
+Match below
+Match 45
+
+check substr *....
+Match below
+Match 866
+
+check substr ....*
+Match below
+Match 555
+
+check substr ...*.
+Match below
+Match 664
+
+check substr ..*.
+Match below
+Match 68
+
+check substr @....
+Match below
+Match 941
+
+check substr .51*
+Match adjacent
+Match 51
+
+check substr *585.
+Match adjacent
+Match 585
+
+No Match 937
+
+check substr .917*
+Match adjacent
+Match 917
+
+check substr *691
+Match adjacent
+Match 691
+
+total = 531926
+check substr .#.
+Match above
+Match 8
+
+check substr .31*
+Match adjacent
+Match 31
+
+check substr .577*
+Match adjacent
+Match 577
+
+check substr ....+
+Match above
+Match 399
+
+check substr *...
+Match above
+Match 59
+
+total = 533000
+check substr ...@.
+Match above
+Match 740
+
+check substr ..*..
+Match above
+Match 781
+
+check substr ..*..
+Match above
+Match 105
+
+check substr ...*.
+Match above
+Match 353
+
+check substr ...*.
+Match above
+Match 791
+
+check substr .=...
+Match above
+Match 579
+
+check substr /....
+Match above
+Match 900
+
+No Match 463
+
+No Match 909
+
+total = 537249
+Challenge one = 537249

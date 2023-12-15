@@ -6,12 +6,14 @@ import (
 	"os"
 )
 
-const printMap = false
+const printMap = true
+
+var startCharType = inLoopFromTop
 
 func main() {
 	fmt.Println("Welcome to day 10")
 	fmt.Println("Challenge one =", ChallengeOne("input.txt"))
-	// fmt.Println("Challenge two =", ChallengeTwo("input.txt"))
+	fmt.Println("Challenge two =", ChallengeTwo("input.txt"))
 }
 
 func ChallengeOne(filename string) int {
@@ -24,15 +26,15 @@ func ChallengeOne(filename string) int {
 	return countSteps(s)
 }
 
-// func ChallengeTwo(filename string) int {
-// 	f, err := os.Open(filename)
-// 	if err != nil {
-// 		panic(err)
-// 	}
-// 	defer f.Close()
-// 	s := bufio.NewScanner(f)
-// 	return sumExtrapolatedValues(s, backwards)
-// }
+func ChallengeTwo(filename string) int {
+	f, err := os.Open(filename)
+	if err != nil {
+		panic(err)
+	}
+	defer f.Close()
+	s := bufio.NewScanner(f)
+	return countEnclosed(s)
+}
 
 type tile rune
 
@@ -45,6 +47,11 @@ const (
 	NWBend     tile = 'J'
 	SWBend     tile = '7'
 	SEBend     tile = 'F'
+
+	inLoopVertical   tile = 'V'
+	inLoopHorizontal tile = 'H'
+	inLoopFromTop    tile = 'T'
+	inLoopFromBottom tile = 'B'
 )
 
 var pipeMap = map[tile]map[direction]coord{}
@@ -104,9 +111,6 @@ func walkPipe(pipe tile, curr tile, c coord, d direction) (coord, bool) {
 	if pipe == start || pipe == ground {
 		return coord{}, false
 	}
-	if curr == start {
-		return pipe.getPipeOutput(c, d), true
-	}
 	if pipesCanConnect(curr, pipe, d) {
 		return pipe.getPipeOutput(c, d), true
 	}
@@ -114,13 +118,25 @@ func walkPipe(pipe tile, curr tile, c coord, d direction) (coord, bool) {
 }
 
 func pipesCanConnect(curr, next tile, d direction) bool {
-	validPipes := pipeFixtures[curr][d]
-	for _, pipe := range validPipes {
-		if next == pipe {
-			return true
+	checker := func(validPipes []tile) bool {
+		for _, pipe := range validPipes {
+			if next == pipe {
+				return true
+			}
 		}
+		return false
 	}
-	return false
+	if curr == start {
+		res := false
+		for _, val := range pipeFixtures {
+			res = checker(val[d])
+			if res {
+				return true
+			}
+		}
+		return false
+	}
+	return checker(pipeFixtures[curr][d])
 }
 
 type direction int
@@ -145,7 +161,20 @@ func countSteps(s *bufio.Scanner) int {
 		grid = append(grid, line)
 	}
 	grid.printGrid(nil)
-	return len(grid.buildLoop())
+	return len(grid.buildLoop()) / 2
+}
+
+func countEnclosed(s *bufio.Scanner) int {
+	grid := grid{}
+	for s.Scan() {
+		line := []tile{}
+		for _, val := range s.Text() {
+			line = append(line, tile(val))
+		}
+		grid = append(grid, line)
+	}
+	grid.printGrid(nil)
+	return grid.countEnclosedTiles()
 }
 
 func (g grid) printGrid(current *coord) {
@@ -173,16 +202,18 @@ func (g grid) buildLoop() []coord {
 	next := start
 	pipe := start
 	fmt.Println("start=", start)
+	loop = append(loop, start)
 	for {
-		g.printGrid(&next)
+		// g.printGrid(&next)
 		next, pipe = g.step(next, pipe)
 		loop = append(loop, pipe)
-		fmt.Println("walked through", pipe)
+		// fmt.Println("walked through", pipe)
 		if next == start {
 			fmt.Println("completed loop")
 			break
 		}
-		fmt.Println("landed on", next)
+		loop = append(loop, next)
+		// fmt.Println("landed on", next)
 	}
 	return loop
 }
@@ -222,4 +253,69 @@ func (g grid) getStartPositon() (coord, bool) {
 		}
 	}
 	return coord{}, false
+}
+
+func (g grid) countEnclosedTiles() int {
+	loop := g.buildLoop()
+	g.fillMap(loop)
+	count := 0
+	for y, line := range g {
+		for x := range line {
+			c := coord{x, y}
+			if g[y][x] == inLoopVertical || g[y][x] == inLoopHorizontal || g[y][x] == inLoopFromTop || g[y][x] == inLoopFromBottom {
+				continue
+			}
+			if g.isEnclosed(c) {
+				count++
+				g[y][x] = 'I'
+			}
+		}
+	}
+	g.printGrid(nil)
+	return count
+}
+
+func (g *grid) fillMap(loop []coord) {
+	for _, coord := range loop {
+		tile := (*g)[coord.y][coord.x]
+		if tile == vertical {
+			(*g)[coord.y][coord.x] = inLoopVertical
+		} else if tile == horizontal {
+			(*g)[coord.y][coord.x] = inLoopHorizontal
+		} else if tile == NEBend || tile == NWBend {
+			(*g)[coord.y][coord.x] = inLoopFromTop
+		} else if tile == SEBend || tile == SWBend {
+			(*g)[coord.y][coord.x] = inLoopFromBottom
+		} else if tile == start {
+			// This must be changed to match the input
+			(*g)[coord.y][coord.x] = startCharType
+		}
+	}
+}
+
+func (g grid) isEnclosed(c coord) bool {
+	intersectCount := 0
+	changeDirectionFromBottom := 0
+	changeDirectionFromTop := 0
+	for x := 0; x < c.x; x++ {
+		if g[c.y][x] == inLoopVertical {
+			intersectCount++
+		}
+		if g[c.y][x] == inLoopFromBottom {
+			changeDirectionFromBottom++
+		} else if g[c.y][x] == inLoopFromTop {
+			changeDirectionFromTop++
+		}
+	}
+	for {
+		if changeDirectionFromBottom > 0 && changeDirectionFromTop > 0 {
+			intersectCount++
+			changeDirectionFromBottom--
+			changeDirectionFromTop--
+		} else {
+			break
+		}
+	}
+	intersectCount += changeDirectionFromBottom + changeDirectionFromTop
+	return intersectCount%2 != 0
 }
